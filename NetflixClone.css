@@ -272,10 +272,11 @@ input[type="radio"] {
   }
   nav button {
     padding: 5px 10px;
+    font-size: 14px; 
   }
-
   nav .language-btn {
     padding: 4px 8px;
+    font-size: 14px; 
   }
   .header-content {
     position: unset;
@@ -286,14 +287,13 @@ input[type="radio"] {
     font-size: 30px;
   }
   .signup button {
-    font-size: 12px;
+    font-size: 14px; 
     padding: 10px 15px;
   }
   .text-col,
   .img-col {
     flex-basis: 100%;
   }
-
   .features h2 {
     font-size: 30px;
   }
